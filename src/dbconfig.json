@@ -1,4 +1,5 @@
 {
+    "channel": <DISCORD_CHANNEL_TO_LISTEN>,
     "dbPort": <PORT>,
     "dbHost": <DBIP>,
     "dbName": <DBNAME>,
