@@ -4,5 +4,6 @@
     "dbHost": <DBIP>,
     "dbName": <DBNAME>,
     "dbPass": <PASSWORD>,
-    "dbUser": <USERNAME>
+    "dbUser": <USERNAME>,
+    "dbTable": <TABLENAME>
 }
